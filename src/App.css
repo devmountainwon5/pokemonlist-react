@@ -1,0 +1,8 @@
+.App {
+  text-align: center;
+  display: flex;
+}
+.App .name {
+  font-size: 3rem;
+  line-height: 200px;
+}
